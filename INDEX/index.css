@@ -1,0 +1,156 @@
+*{
+   margin: 0px;
+}
+
+body {
+    min-width:10px;
+    font-family: 'Raleway', sans-serif;
+}
+
+p {
+    margin-top: 10px;
+}
+
+.primero {
+    width: 100%;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    border-top: 2px solid green;
+    border-right: 2px solid green;
+    border-left: 2px solid green;
+    border-bottom: 2px solid green;
+    border-radius: 10px;
+    background-color: white;
+    text-align: center;
+}
+
+.segundo {
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    border-top: 2px solid green;
+    border-right: 2px solid green;
+    border-left: 2px solid green;
+    border-bottom: 2px solid green;
+    border-radius: 10px;
+    width: 100%;
+    height: 1000px;
+    background-image: url("../IMAGENES/fondo.png");
+}
+
+.tercero {
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    border-top: 3px solid black;
+    border-right: 3px solid black;
+    border-left: 3px solid black;
+    border-bottom: 3px solid black;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.tercero span a {
+    text-decoration: none;
+    color: black
+}
+
+.cuarto {
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    border-top: 3px solid black;
+    border-right: 3px solid black;
+    border-left: 3px solid black;
+    border-bottom: 3px solid black;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.cuarto span a {
+    text-decoration: none;
+    color: black
+}
+
+.quinto {
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    border-top: 3px solid black;
+    border-right: 3px solid black;
+    border-left: 3px solid black;
+    border-bottom: 3px solid black;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.quinto span a {
+    text-decoration: none;
+    color: black
+}
+
+.sexto span a {
+    text-decoration: none;
+    color: black;
+}
+
+.logo {
+    padding-top: 10px;
+    margin-bottom: 7px;
+}
+
+.boton {
+    color: green;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 0.5em 1.2em;
+    background: rgba(0,0,0,0);
+    border: 2px solid;
+    border-color: green;
+    transition: all 1s ease;
+    position: relative;
+    display: block;
+    text-align: center;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+
+.boton:hover {
+    background: green;
+    color: white;
+}
+
+.pie {
+    color: green;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 0.5em 1.2em;
+    background: rgba(0,0,0,0);
+    border: 2px solid;
+    border-color: green;
+    transition: all 1s ease;
+    position: relative;
+    display: block;
+    text-align: center;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.pie:hover {
+    background: green;
+    color: white;
+}
+
